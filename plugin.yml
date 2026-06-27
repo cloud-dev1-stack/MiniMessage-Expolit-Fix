@@ -1,8 +1,8 @@
-name: BaljeetShield
+name: MiniMessage-Expolit-Fix
 version: 1.0.0
-main: tf.matthew.BaljeetShield
+main: cloud-dev1-stack
 api-version: 1.19
-description: avoids indian faggots from scamming baljeet
-author: diddy
+description: Very tuff plugin
+author: CloudStudios
 
 commands: {}
