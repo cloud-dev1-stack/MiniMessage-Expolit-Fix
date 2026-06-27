@@ -1,0 +1,8 @@
+name: BaljeetShield
+version: 1.0.0
+main: tf.matthew.BaljeetShield
+api-version: 1.19
+description: avoids indian faggots from scamming baljeet
+author: diddy
+
+commands: {}
